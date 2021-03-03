@@ -1,0 +1,1 @@
+# fc-service-alibaba-component
